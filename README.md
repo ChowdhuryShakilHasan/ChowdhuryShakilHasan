@@ -11,7 +11,7 @@ Python | SQL | JavaScript | React | C++ | Java | JavaScript | R
 
 * ParkFlow
 * Noise Pollution ML
-*clinic_Management
+* Clinic_Management
 
 ## Contact
 
