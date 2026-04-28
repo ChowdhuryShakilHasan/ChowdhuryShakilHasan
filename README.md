@@ -50,10 +50,10 @@
 
 ## 🎯 Current Focus
 
+* Research Paper
 * Full Stack Development
 * Machine Learning Deployment
 * Clean System Design
-* Real World Portfolio Projects
 
 ---
 
