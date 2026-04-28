@@ -39,7 +39,8 @@
 
 ## 🔥 Featured Projects
 
-* 🍞 **BakeFlow** — Bakery Management System
+* 🍞 **ParkFlow** — Parking Management System
+* 🍞 **Clinic_Management** — Clinic Management System
 * 📈 **Noise Pollution Prediction** — ML based analytics project
 * 👁️ **Computer Vision Projects** — Detection & image processing
 * 🌐 **Full Stack Web Apps** — Modern responsive systems
