@@ -5,7 +5,7 @@ Passionate about Software Development, ML & Data Science
 
 ## Tech Stack
 
-Python | SQL | JavaScript | React
+Python | SQL | JavaScript | React | C++ | Java | JavaScript | R 
 
 ## Projects
 
